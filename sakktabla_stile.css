@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(49, 52, 255);
+}
+table, tr,td{
+    border: 3px solid black;
+}
+
+td{
+    background-color:  black;
+}
+table{
+    width: 88%;
+    height: 880px;
+    border-collapse: collapse;
+    margin: auto;
+}
+h1{
+text-align:;
+}
+.feher{
+    background-color: white;
+}
+#egyedi{
+    background-color:aqua;
+}
